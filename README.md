@@ -1,2 +1,0 @@
-"# Pj" 
-"# slide-animation" 
